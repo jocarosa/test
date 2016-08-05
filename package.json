@@ -1,6 +1,6 @@
 {
   "name": "jocarosa",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "The elegant and lightweight boilerplate for full stack JavaScript.",
   "main": "server.js",
   "repository": {
